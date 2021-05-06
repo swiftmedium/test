@@ -1,0 +1,6 @@
+rates = {
+  "name":"deluxe",
+  "price":30,
+  "Time": 60
+}
+ 
