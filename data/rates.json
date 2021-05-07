@@ -1,6 +1,6 @@
 rates = {
 types:{	
-  [{"name":"deluxe",
+  {"name":"deluxe",
   "price":30,
   "Time": 60},
   {"name":"regular",
@@ -9,7 +9,7 @@ types:{
   {"name":"ultimate",
   "price":60,
   "Time": 90}
-  ]
+  
   }
 }
  
